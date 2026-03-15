@@ -1,0 +1,54 @@
+string_field_0,string_field_1,string_field_2,string_field_3
+state,subregion,region,Country
+AK,Pacific,West,Alaska
+CA,Pacific,West,California
+HI,Pacific,West,Hawaii
+OR,Pacific,West,Oregon
+WA,Pacific,West,Washington
+AZ,Mountain,West,Arizona
+CO,Mountain,West,Colorado
+ID,Mountain,West,Idaho
+MT,Mountain,West,Montana
+NM,Mountain,West,New Mexico
+NV,Mountain,West,Nevada
+UT,Mountain,West,Utah
+WY,Mountain,West,Wyoming
+DC,South Atlantic,South,Washington D.C.
+DE,South Atlantic,South,Delaware
+FL,South Atlantic,South,Florida
+GA,South Atlantic,South,Georgia
+MD,South Atlantic,South,Maryland
+NC,South Atlantic,South,North Carolina
+SC,South Atlantic,South,South Carolina
+VA,South Atlantic,South,Virginia
+WV,South Atlantic,South,West Virginia
+AL,East South Central,South,Alabama
+KY,East South Central,South,Kentucky
+MS,East South Central,South,Mississippi
+TN,East South Central,South,Tennessee
+AR,West South Central,South,Arkansas
+LA,West South Central,South,Louisiana
+OK,West South Central,South,Oklahoma
+TX,West South Central,South,Texas
+state,subregion,region,
+IL,East North Central,Midwest,Illinois
+IN,East North Central,Midwest,Indiana
+MI,East North Central,Midwest,Michigan
+OH,East North Central,Midwest,Ohio
+WI,East North Central,Midwest,Wisconsin
+IA,West North Central,Midwest,Iowa
+KS,West North Central,Midwest,Kansas
+MN,West North Central,Midwest,Minnesota
+MO,West North Central,Midwest,Missouri
+ND,West North Central,Midwest,North Dakota
+NE,West North Central,Midwest,Nebraska
+SD,West North Central,Midwest,South Dakota
+CT,New England,Northeast,Connecticut
+MA,New England,Northeast,Massachusetts
+ME,New England,Northeast,Maine
+NH,New England,Northeast,New Hampshire
+RI,New England,Northeast,Rhode Island
+VT,New England,Northeast,Vermont
+NJ,Middle Atlantic,Northeast,New Jersey
+NY,Middle Atlantic,Northeast,New York
+PA,Middle Atlantic,Northeast,Pennsylvania
